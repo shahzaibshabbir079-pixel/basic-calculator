@@ -24,6 +24,5 @@ button.addEventListener("click", function() {
         result = firstnumb / secondnumb;
     }
 
-    console.log(result);
     resultwala.textContent = result;
 });
